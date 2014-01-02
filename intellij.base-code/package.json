@@ -2,7 +2,7 @@
 	"name": "intellij.base-code",
 	"title": "Insert Base Code",
 	"description": "Inserts the 'base html code' into a file (much like DreamWeaver)",
-	"homepage": "https://github.com/IntelliJ/",
+	"homepage": "https://github.com/IntelliJ/Brackets-Base-Code-Gen",
 	"version": "1.0.0",
 	"author": "Colt Fortenberry <colt.fortenberry@outlook.com>",
 	"license": "MIT",
