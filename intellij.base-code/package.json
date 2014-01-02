@@ -1,0 +1,12 @@
+{
+	"name": "intellij.base-code",
+	"title": "Insert Base Code",
+	"description": "Inserts the 'base html code' into a file (much like DreamWeaver)",
+	"homepage": "https://github.com/IntelliJ/",
+	"version": "1.0.0",
+	"author": "Colt Fortenberry <colt.fortenberry@outlook.com>",
+	"license": "MIT",
+	"engines": {
+		"brackets": ">=0.35.0"
+	}
+}
