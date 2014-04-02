@@ -1,6 +1,8 @@
 #Brackets-Base-Code
 Base Code is an extension for [brackets](https://github.com/adobe/brackets). Base Code aims to provide a similar functionality that DreamWeaver has in which the 'base HTML code' is automatically inserted into your file.
 
+Credit for everything here goes to Colt Fortenberry.
+
 #Installation
 To use Base Code simply open Brackets and go to the Extensions Manager (File->Extensions Manager). Search for Base Code Insert and install the plugin.
 
